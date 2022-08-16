@@ -1,24 +1,3 @@
-<head>
-<style>
-    div.img {
-        margin: 5px;
-        border: 1px solid #ccc;
-        float: left;
-        width: 300px;
-    } 
-    div.img:hover {
-        border: 1px solid #777;
-    }
-    div.img img {
-        width:100%;
-        height: auto;
-    }
-    div.desc {
-        padding: 2px;
-        text-align: center;
-    }
-</style>
-</head>
 <a href="#" target="_blank">
   <img src="svg/nguyenquoctrong.svg" width="1200" alt="nqt" />
 </a>
@@ -139,8 +118,24 @@
     </div>
 
 <h2 align="center" style="font-weight: bold">📖 PERSONAL ACHIEVEMENTS 📖</h2>
-    
-<body>
+<div style = "
+    div.img {
+        margin: 5px;
+        border: 1px solid #ccc;
+        float: left;
+        width: 300px;
+    } 
+    div.img:hover {
+        border: 1px solid #777;
+    }
+    div.img img {
+        width:100%;
+        height: auto;
+    }
+    div.desc {
+        padding: 2px;
+        text-align: center;
+    }"> 
     <div class="img">
         <a href="h1.jpg" target="_blank">
            <img src="images/h1.jpg">
@@ -189,5 +184,5 @@
         </a>
         <div class="desc">Won the second prize for scientific research in the academic year 2020 – 2021</div>
     </div>
-</body>
+</div>
 

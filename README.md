@@ -118,7 +118,7 @@
     </div>
 
 <h2 align="center" style="font-weight: bold">📖 PERSONAL ACHIEVEMENTS 📖</h2>
-<div style = "
+<div align="center" style = "
     div.img {
         margin: 5px;
         border: 1px solid #ccc;

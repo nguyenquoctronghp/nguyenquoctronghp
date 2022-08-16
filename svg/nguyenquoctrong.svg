@@ -47,7 +47,7 @@
 					font-size: 36px;
 					line-height: 1.6;
 					letter-spacing: 5px;
-          animation:  typing 8s forwards;
+          animation:  typing 10s forwards;
           margin-left: 80px;
           white-space: nowrap;
         }

@@ -11,7 +11,7 @@
           to { width: 100% }
         }
 				.container {
-					background-size: cover;
+				  background-size: cover;
           font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
 					display: flex;
 					flex-direction: column;

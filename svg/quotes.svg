@@ -1,0 +1,40 @@
+<svg fill="none" viewBox="0 0 846 150" width="846" height="150" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				@keyframes typing {
+          			from { width: 0 }
+          			to { width: 100% }
+        		}
+				.container {
+					font-family: Garamond;
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 150px;
+          			background-color: #20232A;
+					border-radius: 23px;
+					color: white;
+          			line-height: 1.6;
+					font-size: 18px;
+				}
+				.greeting {
+          			overflow: hidden;
+					line-height: 1.8;
+					letter-spacing: 0.6px;
+          			animation:  typing 10s forwards;
+					text-align: center;
+          			white-space: nowrap;
+        			}
+			</style>
+			<div class="container">
+				<div class="greeting">
+        		"Attitude and perseverance are two things I constantly remind myself every day!"<br/>"Thái độ và sự kiên trì là hai điều tôi không ngừng nhắc nhở bản thân mỗi ngày!"<br/>↞Nguyen Quoc Trong⇥	
+				</div>
+      		</div>
+		</div>
+	</foreignObject>
+</svg>

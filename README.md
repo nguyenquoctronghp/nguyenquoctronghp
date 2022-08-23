@@ -26,7 +26,7 @@
 
 <h2 align="center" style="font-weight: bold">🏫 EDUCATION 🏫</h2>
     <div align="Left">
-      <h3 style="font-weight: bold">08/2017 – 12/2021: University of Transport and Communications Ha Noi</h3>
+      <a href="https://www.utc.edu.vn/" style="font-weight: bold; font-size: 16px;">08/2017 – 12/2021: University of Transport and Communications Ha Noi</a>
       <p>
       <span><strong>Major:</strong> Control Engineering and Automation</span>
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Diploma:</strong> Engineer</span></p>
@@ -34,33 +34,33 @@
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Accumulated points:</strong> 7.64/10</span></p>
     </div>
     <div align="Left">
-      <a style="font-weight: bold">01/2019: Won consolation prize in “Marathon Coder” contest 2018</a>
+      <a style="font-weight: bold; font-size: 16px;">01/2019: Won consolation prize in “Marathon Coder” contest 2018</a>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Algorithm programming contest. That was the beginning of my passion for programming.</p>
     </div>
     <div align="Left">
-      <a href="products\Poster NCKH 2019.pdf" target="_blank" style="font-weight: bold">07/2019: Won the third prize for scientific research in the academic year 2018 – 2019</a>
+      <a href="products\Poster NCKH 2019.pdf" target="_blank" style="font-weight: bold; font-size: 16px;">07/2019: Won the third prize for scientific research in the academic year 2018 – 2019</a>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project title: Building a management interface to monitor the power consumption of the working room.</p>
     </div>
     <div align="Left">
-      <a href="products\Poster NCKH 2020.pdf" target="_blank" style="font-weight: bold">06/2020: Won the third prize for scientific research in the academic year 2019 – 2020</a>
+      <a href="products\Poster NCKH 2020.pdf" target="_blank" style="font-weight: bold; font-size: 16px;">06/2020: Won the third prize for scientific research in the academic year 2019 – 2020</a>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project title: Research and manufacture a device to warn of the risk of motorcycle collisions with obstacles on the road.</p>
     </div>
     <div align="Left">
-      <a href="products\Trong_DATN.pdf" target="_blank" style="font-weight: bold">12/2021: Graduation thesis</a>
+      <a href="products\Trong_DATN.pdf" target="_blank" style="font-weight: bold; font-size: 16px;">12/2021: Graduation thesis</a>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project title: Design of supervision control system cold warehouse using microcontrollers.</p>
     </div>
 
 
 <h2 align="center" style="font-weight: bold">🏢 WORK EXPERIENCE 🏢</h2>
     <div align="Left">
-      <a href="http://vinhquanggroup.com.vn/" style="font-weight: bold">02/2019 - 03/2020: VINH QUANG GROUP </a>
+      <a href="http://vinhquanggroup.com.vn/" style="font-weight: bold; font-size: 16px;">02/2019 - 03/2020: VINH QUANG GROUP </a>
       <p><strong>Description:</strong> Part time job</p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;- Assembling components, soldering electronic circuits.</p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;- Assembling and connecting industrial electrical practice models.</p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;- Participating in the handover work and guiding teachers to use electric practice models.</p>
     </div>
     <div align="Left">
-      <a href="https://leanway.vn/" style="font-weight: bold">05/2021 - 07/2022: LEANWAY EQUIPMENT AND TECHNOLOGY JOIN STOCK COMPANY</a>
+      <a href="https://leanway.vn/" style="font-weight: bold; font-size: 16px;">05/2021 - 07/2022: LEANWAY EQUIPMENT AND TECHNOLOGY JOIN STOCK COMPANY</a>
       <p><strong>Position:</strong> Design Engineer</p>
       <p><strong>Description:</strong></p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;- Automation solutions according to customer requirements: SONHA CORPORATION., JSC and MUTOSI GROUP., JSC.</p>
@@ -142,7 +142,6 @@
     <div align="center">
       <p>Video: Sinh viên Đại học Giao thông Vận tải Hà Nội với hoạt động Nghiên cứu khoa học sinh viên"</p>
     </div>
-    [![Watch the video](https://img.youtube.com/vi/xj3245LjHns/mqdefault.jpg)](https://youtu.be/xj3245LjHns)
   </div>
   <br>
   <div align="center">

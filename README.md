@@ -46,21 +46,21 @@
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project title: Research and manufacture a device to warn of the risk of motorcycle collisions with obstacles on the road.</p>
     </div>
     <div align="Left">
-      <a style="font-weight: bold">07/2021: Won the second prize for scientific research in the academic year 2020 – 2021</a>
-      <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project title: Research on building a smart wastewater monitoring system.</p>
+      <a href="products\Trong_DATN.pdf" target="_blank" style="font-weight: bold">12/2021: Graduation thesis</a>
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project title: Design of supervision control system cold warehouse using microcontrollers.</p>
     </div>
 
 
 <h2 align="center" style="font-weight: bold">🏢 WORK EXPERIENCE 🏢</h2>
     <div align="Left">
-      <h3 style="font-weight: bold">02/2019 - 03/2020: VINH QUANG GROUP </h3>
+      <a href="http://vinhquanggroup.com.vn/" style="font-weight: bold">02/2019 - 03/2020: VINH QUANG GROUP </a>
       <p><strong>Description:</strong> Part time job</p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;- Assembling components, soldering electronic circuits.</p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;- Assembling and connecting industrial electrical practice models.</p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;- Participating in the handover work and guiding teachers to use electric practice models.</p>
     </div>
     <div align="Left">
-      <h3 style="font-weight: bold">05/2021 - 09/2022: LEANWAY EQUIPMENT AND TECHNOLOGY JOIN STOCK COMPANY</h3>
+      <a href="https://leanway.vn/" style="font-weight: bold">05/2021 - 07/2022: LEANWAY EQUIPMENT AND TECHNOLOGY JOIN STOCK COMPANY</a>
       <p><strong>Position:</strong> Design Engineer</p>
       <p><strong>Description:</strong></p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;- Automation solutions according to customer requirements: SONHA CORPORATION., JSC and MUTOSI GROUP., JSC.</p>
@@ -139,19 +139,10 @@
            <img width="360" height="auto" src="images/h6.jpg">
         <p>Certificate of merit for good students in the school year 2019 - 2020</p>
     </div>
-    <div>
-           <img width="360" height="auto" src="images/h7.jpg">
-        <p>Certificate of participation in scientific research for students in 2020 -2021</p>
+    <div align="center">
+      <p>Video: Sinh viên Đại học Giao thông Vận tải Hà Nội với hoạt động Nghiên cứu khoa học sinh viên"</p>
     </div>
-    <div>
-           <img width="360" height="auto" src="images/h8.jpg">
-        <p>Won the second prize for scientific research in the academic year 2020 – 2021</p>
-    </div>
-    <div>
-      <video controls> 
-      <iframe width="1584" height="612" src="https://www.youtube.com/embed/xj3245LjHns" title="Nghiên cứu khoa học sinh viên Đại học Giao thông Vận tải Hà Nội năm 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </video>
-    </div>
+    [![Watch the video](https://img.youtube.com/vi/xj3245LjHns/mqdefault.jpg)](https://youtu.be/xj3245LjHns)
   </div>
   <br>
   <div align="center">

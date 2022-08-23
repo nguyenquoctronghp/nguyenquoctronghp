@@ -140,7 +140,7 @@
         <p>Certificate of merit for good students in the school year 2019 - 2020</p>
     </div>
     <div align="center">
-      <p>Video: Sinh viên Đại học Giao thông Vận tải Hà Nội với hoạt động Nghiên cứu khoa học sinh viên"</p>
+      <a href="https://youtu.be/xj3245LjHns">Video: Sinh viên Đại học Giao thông Vận tải Hà Nội với hoạt động Nghiên cứu khoa học sinh viên 2020"</a>
     </div>
   </div>
   <br>

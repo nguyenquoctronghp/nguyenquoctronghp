@@ -53,7 +53,7 @@
 
 <h2 align="center" style="font-weight: bold">🏢 WORK EXPERIENCE 🏢</h2>
     <div align="Left">
-      <a href="http://vinhquanggroup.com.vn/" style="font-weight: bold; font-size: 16px;">02/2019 - 03/2020: VINH QUANG GROUP </a>
+      <a href="http://vinhquanggroup.com.vn/" style="font-weight: bold; font-size: 16px;">02/2019 - 03/2021: VINH QUANG GROUP </a>
       <p><strong>Description:</strong> Part time job</p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;- Assembling components, soldering electronic circuits.</p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;- Assembling and connecting industrial electrical practice models.</p>
